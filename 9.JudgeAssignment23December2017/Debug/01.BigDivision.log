@@ -1,0 +1,4 @@
+﻿  01BigDivision.cpp
+c:\users\tony\desktop\c++ fundamentals\03.judgeassignment.23.dec.2017\01.bigdivision\01bigdivision.cpp(36): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+  01.BigDivision.vcxproj -> C:\Users\TONY\Desktop\C++ Fundamentals\03.JudgeAssignment.23.Dec.2017\Debug\01.BigDivision.exe
+  01.BigDivision.vcxproj -> C:\Users\TONY\Desktop\C++ Fundamentals\03.JudgeAssignment.23.Dec.2017\Debug\01.BigDivision.pdb (Partial PDB)

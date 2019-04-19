@@ -1,0 +1,14 @@
+Person ID: 0
+Manufacturer name: Dodge
+Model name: Challenger
+Horsepower: 900
+Registration number: W 0000 QM
+Person name: Bai Ivan
+Person age: 40
+Person ID: 1
+Manufacturer name: Bugatti
+Model name: Veyron
+Horsepower: 1200
+Registration number: Q 4444 PM
+Person name: Ionko Ionkov
+Person age: 30

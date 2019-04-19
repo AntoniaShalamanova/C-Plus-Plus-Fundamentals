@@ -1,0 +1,5 @@
+﻿  03Visitors.cpp
+c:\users\tony\desktop\c++ fundamentals\exampreparation.09.jan.2018\03.visitors\03visitors.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\tony\desktop\c++ fundamentals\exampreparation.09.jan.2018\03.visitors\03visitors.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  03.Visitors.vcxproj -> C:\Users\TONY\Desktop\C++ Fundamentals\ExamPreparation.09.Jan.2018\Debug\03.Visitors.exe
+  03.Visitors.vcxproj -> C:\Users\TONY\Desktop\C++ Fundamentals\ExamPreparation.09.Jan.2018\Debug\03.Visitors.pdb (Partial PDB)
